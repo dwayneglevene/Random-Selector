@@ -1,0 +1,31 @@
+body{
+	background-image: url("http://www.momist.com/wp-content/uploads/2013/02/we-want-you-pointing.png");
+	background-repeat: no-repeat;
+	background-color: #9F00FF;
+	background-position: relative;
+	padding-top: 55px;
+	border-top-color: red;
+	background-attachment: fixed;
+	background-position: 50% 50%;
+
+
+
+}
+
+
+#selection{
+	text-align: center;
+	color: grey;
+	
+
+}
+
+#resultArray,#Random{
+	color: #9F00FF;
+}
+
+.doMath{
+	text-align: center;
+	margin-top: 70px;
+
+}
